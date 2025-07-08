@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Next.js, PostgreSQL, and TypeScript**
 - 🧠 I recently built a **real-time MERN chat app** and **EduTrack** - an AI-integrated ed-tech platform
 - 💬 Ask me about **Java, DSA, MERN Stack, SQL**
-- 📫 How to reach me: prudhvicode@gmail.com
+- 📫 How to reach me: mamillapalliprudhvi@gmail.com
 - ⚡ Fun fact: I like building cool stuff late at night 🌙
 
 ---
