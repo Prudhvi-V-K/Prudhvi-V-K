@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **MockAI** and **ByteBook**
+- 🔭 I’m currently working on **MockAI**
 - 🌱 I’m currently learning **Next.js, PostgreSQL, and TypeScript**
 - 🧠 I recently built a **real-time MERN chat app** and **EduTrack** - an AI-integrated ed-tech platform
 - 💬 Ask me about **Java, DSA, MERN Stack, SQL**
