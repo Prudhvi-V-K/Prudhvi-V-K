@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prudhvi</h1>
+<h3 align="center">A passionate full-stack developer and software engineer from India</h3>
 
-<!--
-**Prudhvi-V-K/Prudhvi-V-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prudhvi-V-K&label=Profile%20views&color=0e75b6&style=flat" alt="Prudhvi-V-K" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **MockAI** and **ByteBook**
+- 🌱 I’m currently learning **Next.js, PostgreSQL, and TypeScript**
+- 🧠 I recently built a **real-time MERN chat app** and **EduTrack** - an AI-integrated ed-tech platform
+- 💬 Ask me about **Java, DSA, MERN Stack, SQL**
+- 📫 How to reach me: prudhvicode@gmail.com
+- ⚡ Fun fact: I like building cool stuff late at night 🌙
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,nextjs,html,css,tailwind,mongodb,postgres,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prudhvi-V-K&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prudhvi-V-K&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/prudhvi-mamillapalli/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mamillapalliprudhvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
